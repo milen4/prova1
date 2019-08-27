@@ -7,3 +7,5 @@ Alunos:
   [] Jorge Lucas Silva Lima
   [] Vinicius Salerno Leite
   [] Gabriel da Silva Soutoooo
+  [] Gustavo Ferreira Wanderley
+
