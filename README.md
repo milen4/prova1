@@ -9,3 +9,4 @@ Alunos:
   [] Gabriel da Silva Soutoooo
   [] Gustavo Ferreira Wanderley
   [] renan cesar cardozo solto
+  [] ERos o mestre da cachimbinha
