@@ -10,3 +10,4 @@ Alunos:
   [] Gustavo Ferreira Wanderley
   [] renan cesar cardozo solto
   [] ERos o mestre da cachimbinha
+  [] Jorge Lucas Silva Lima
