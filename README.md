@@ -1,3 +1,8 @@
 # prova1
 Prova para a turma de ads
-//liriel matias c
+
+Alunos:
+
+  [] liriel matias c
+  [] Jorge Lucas Silva Lima
+  [] Vinicius Salerno Leite
