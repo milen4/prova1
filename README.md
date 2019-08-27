@@ -1,4 +1,9 @@
 # prova1
-Prova para a turma de ads
-Gabriel da Silva Soutoooo
+Prova para a turma de ADS Tarde.
 
+Alunos:
+
+  [] liriel matias c
+  [] Jorge Lucas Silva Lima
+  [] Vinicius Salerno Leite
+  [] Gabriel da Silva Soutoooo
