@@ -1,4 +1,12 @@
 # prova1
-Prova para a turma de ads
+Prova para a turma de ADS Tarde.
 
-ERos o mestre da cachimbinha
+Alunos:
+
+  [] liriel matias c
+  [] Jorge Lucas Silva Lima
+  [] Vinicius Salerno Leite
+  [] Gabriel da Silva Soutoooo
+  [] Gustavo Ferreira Wanderley
+  [] renan cesar cardozo solto
+  [] ERos o mestre da cachimbinha
